@@ -1,0 +1,6 @@
+{
+  "name": "مكتب الوطن للحلول الرقمية",
+  "description": "منصة مكتب الوطن للحلول الرقمية والخدمات الإلكترونية المساندة لجميع المنصات الحكومية والخاصة تحت إدارة الأستاذ ماجد سعود العميري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
